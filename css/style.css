@@ -26,6 +26,8 @@ html, body {
 
 .btn {
 	margin-top: 50px;
+  font-size: 2rem !important;
+  margin-bottom: 20px;
 }
 
 .display-4 {
@@ -35,8 +37,4 @@ html, body {
 .lead {
   font-size: 2rem !important; 
   margin-top: 50px;
-}
-
-.btn {
-  font-size: 2rem !important;
 }
