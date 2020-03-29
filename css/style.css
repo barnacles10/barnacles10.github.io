@@ -27,3 +27,16 @@ html, body {
 .btn {
 	margin-top: 50px;
 }
+
+.display-4 {
+  font-size: 5rem !important; 
+}
+
+.lead {
+  font-size: 2rem !important; 
+  margin-top: 50px;
+}
+
+.btn {
+  font-size: 2rem !important;
+}
